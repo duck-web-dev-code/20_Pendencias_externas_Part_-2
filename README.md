@@ -30,5 +30,5 @@
   width="120" height="30" />
 </a>
 
-<a href="https://www.instagram.com/hawk_web/?theme=dark" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" width="120"/></a>
+<a href="https://www.instagram.com/hawk_web/?theme=dark" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" width="120"/></a>
 </p>
